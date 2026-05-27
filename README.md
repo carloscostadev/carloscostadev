@@ -1,7 +1,7 @@
 # Hi, I'm Carlos 👋
 
 Senior Front-End Developer & Web Designer based in Porto, Portugal.
-Currently building front-end at **[Importrust](https://importrust.com)** and shipping small developer tools on the side.
+Currently building front-end at **Importrust** and shipping small developer tools on the side.
 
 🌐 [carloscostadev.pt](https://carloscostadev.pt) · 💼 [LinkedIn](https://www.linkedin.com/in/carloscostaprogramador1999/) · 🎨 [Behance](https://www.behance.net/carloscostapt99)
 
@@ -17,7 +17,7 @@ macOS menu bar app that monitors all active localhost ports. See what's running,
 macOS menu bar app for Claude Code. Reads `~/.claude/` locally; shows tokens, cost and burn rate. No API keys, no network.
 `Swift` `SwiftUI` `Claude Code`
 
-### Horus
+### [Horus](https://carloscostadev.pt/horus) · [carloscostadev.pt/horus](https://carloscostadev.pt/horus)
 Personal AI coding agent. A private CLI and IDE built to match the way I actually work. It learns my conventions, automates the repetitive parts, and keeps every decision auditable.
 `TypeScript` `Electron` `Claude` `Codex`
 
