@@ -9,6 +9,10 @@ Currently building front-end at **Importrust** and shipping small developer tool
 
 ## What I'm building
 
+### [Horus](https://carloscostadev.pt/horus) · [carloscostadev.pt/horus](https://carloscostadev.pt/horus)
+Personal AI coding agent. A private CLI and IDE built to match the way I actually work. It learns my conventions, automates the repetitive parts, and keeps every decision auditable.
+`TypeScript` `Electron` `Claude` `Codex`
+
 ### [Janus](https://github.com/carloscostadev/janus) · [janus.carloscostadev.pt](https://janus.carloscostadev.pt)
 macOS menu bar app that monitors all active localhost ports. See what's running, kill what you don't need, one click away.
 `Swift` `SwiftUI` `macOS`
@@ -16,10 +20,6 @@ macOS menu bar app that monitors all active localhost ports. See what's running,
 ### [Thoth](https://github.com/carloscostadev/thoth) · [thoth.carloscostadev.pt](https://thoth.carloscostadev.pt)
 macOS menu bar app for Claude Code. Reads `~/.claude/` locally; shows tokens, cost and burn rate. No API keys, no network.
 `Swift` `SwiftUI` `Claude Code`
-
-### [Horus](https://carloscostadev.pt/horus) · [carloscostadev.pt/horus](https://carloscostadev.pt/horus)
-Personal AI coding agent. A private CLI and IDE built to match the way I actually work. It learns my conventions, automates the repetitive parts, and keeps every decision auditable.
-`TypeScript` `Electron` `Claude` `Codex`
 
 ---
 
